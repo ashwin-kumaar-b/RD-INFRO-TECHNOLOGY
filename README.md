@@ -5,7 +5,7 @@ This is my submission for a **Task** of the **Python Programming Internship** at
 ## 📌 About the Project
 - Reads data from a CSV file using `pandas`
 - Removes rows with missing values
-- Converts the cleaned data into a JSON file
+- Converts the cleaned data into a JSON file 
 
 ## 📂 Files
 - `data.csv` – Input data file  
